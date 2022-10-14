@@ -17,6 +17,7 @@ Jason Francis Youtube Tutorial Videos
 Music: patrickdearteaga.com 
 Sounds: freesounds.org 
 kenney.nl/puzzle_packs
+kenney.nl/backgrounds
 
 ## Future Development
 None 
